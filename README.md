@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there, I'm Nathanael Moses a.k.a "ES25-1"
 
 <!--
 **nathanaelmosesES/nathanaelmosesES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
